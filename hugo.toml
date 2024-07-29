@@ -7,8 +7,6 @@ pygmentsstyle = "dracula"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "flesh-1"
-
 paginate=3 # articles per page
 
 favicon="https://uiyx.xyz/img/favicon.png"
