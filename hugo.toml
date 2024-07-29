@@ -7,7 +7,7 @@ pygmentsstyle = "dracula"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourDisqusShortname"
+disqusShortname = "flesh-1"
 
 paginate=3 # articles per page
 
