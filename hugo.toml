@@ -17,7 +17,7 @@ favicon="https://uiyx.xyz/img/favicon.png"
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
 	subtitle = "Still needed for machine reproduction."
 	mathjax = true # enable MathJax support
-	katex = true # enable KaTeX support
+	katex = false # enable KaTeX support
     favicon="https://uiyx.xyz/img/favicon.png"
 # Social Tags
 
