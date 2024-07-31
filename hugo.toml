@@ -18,7 +18,7 @@ favicon="https://uiyx.xyz/img/favicon.png"
 	subtitle = "Still needed for machine reproduction."
 	mathjax = true # enable MathJax support
 	katex = false # enable KaTeX support
-    favicon="https://uiyx.xyz/img/favicon.png"
+    favicon="/img/favicon.png"
 # Social Tags
 
 [[params.social]]
